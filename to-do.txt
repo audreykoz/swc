@@ -1,5 +1,5 @@
 
-- write conversion DELETESOMETHING: 
+- write conversion change DELETESOMETHING: 
 	-dollars to cent 
 	-gallons to liters 
 	-hours to minutes
