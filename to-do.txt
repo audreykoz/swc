@@ -1,5 +1,5 @@
 
-- write conversion CHANGINGFIRSTLINEDUSTIN: 
+- write conversion CHANGING: 
 	-dollars to cent 
 	-gallons to liters 
 	-hours to minutes
