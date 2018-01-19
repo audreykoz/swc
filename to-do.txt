@@ -1,4 +1,4 @@
-- write conversion functions: 
+- write conversion functions(like a boss): 
 	-dollars to cent 
 	-gallons to liters 
 	-hours to minutes
